@@ -1,0 +1,19 @@
+.card-color {
+    background-color: #2b8fe8 !important;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.text-right {
+ text-align: right;
+}
+
+
+.btn-style {
+    color: #fff;
+    background-color: #2b8fe8;
+    border-color: #2b8fe8;
+}
